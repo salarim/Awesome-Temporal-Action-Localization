@@ -1,3 +1,4 @@
+
 # Awesome Temporal Action Localization: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of temporal action localization/detection and related area (e.g. temporal action proposal) resources.
 
@@ -30,6 +31,16 @@ A curated list of temporal action localization/detection and related area (e.g. 
 - <span id = "2192">[[DBS]](#1192)</span> [**Video Imprint Segmentation for Temporal Action Detection in Untrimmed Videos**](https://www.aaai.org/ojs/index.php/AAAI/article/view/4846) - Zhanning Gao et al, `AAAI 2019`.
 - <span id = "2191">[[C-TCN]](#1191)</span> [**Deep Concept-wise Temporal Convolutional Networks for Action Localization**](https://arxiv.org/abs/1908.09442) - Xin Li et al, `arXiv 2019`.
 - <span id = "2197">[[PGCN]](#1197)</span> [**G-TAD: Sub-Graph Localization for Temporal Action Detection**](https://arxiv.org/pdf/1911.11462.pdf) - MengMeng Xu et al, `arXiv 2019`. 
+--------
+ - <span id = "2198">[[S-2D-TAN]](#1198)</span> [**Learning Sparse 2D Temporal Adjacent Networks for Temporal Action Localization**](https://arxiv.org/abs/1912.03612) - Songyang Zhang et al, `ICCV 2019`. 
+ - <span id = "2199">[[CMSN]](#1199)</span> [**CMSN: Continuous Multi-stage Network and Variable Margin Cosine Loss for Temporal Action Proposal Generation**](https://arxiv.org/abs/1911.06080) - Yushuai Hu et al, `arXiv 2019`. 
+ - <span id = "2200">[[DBG]](#1200)</span> [**Fast Learning of Temporal Action Proposal via Dense Boundary Generator**](https://arxiv.org/abs/1911.04127) - Chuming Lin et al, `AAAI 2020`. 
+ - <span id = "2201">[[AFO-TAD]](#1201)</span> [**AFO-TAD: Anchor-free One-Stage Detector for Temporal Action Detection**](https://arxiv.org/abs/1911.04127) - Yiping Tang et al, `arXiv 2019`. 
+ - <span id = "2202">[[semi-supervised]](#1202)</span> [**Learning Temporal Action Proposals With Fewer Labels**](https://arxiv.org/abs/1910.01286) - Jingwei Ji et al, `ICCV 2019`. 
+ - <span id = "2203">[[DPP.AnchorFree]](#1203)</span> [**Deep Point-wise Prediction for Action Temporal Proposal**](https://arxiv.org/abs/1909.07725) - Luxuan Li et al, `ICONIP 2019`. 
+ - <span id = "2204">[[TSANet]](#1204)</span> [**Scale Matters: Temporal Scale Aggregation Network for Precise Action Localization in Untrimmed Videos**](https://arxiv.org/abs/1908.00707) - Guoqiang Gong et al, `arXiv 2019`. 
+ - <span id = "2205">[[TGM]](#1205)</span> [**Temporal Gaussian Mixture Layer for Videos**](https://arxiv.org/abs/1803.06316) -AJ Piergiovanni et al, `ICML 2019`. 
+ - <span id = "2206">[[MGG]](#1206)</span> [**Multi-granularity Generator for Temporal Action Proposal**](https://arxiv.org/abs/1811.11524) -Yuan Liu et al, `CVPR 2019`. 
 
 ### <span id = "112">2018</span>
 
